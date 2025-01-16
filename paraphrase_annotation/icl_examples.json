@@ -1,0 +1,41 @@
+{
+    "Actor/Action substitution": {
+        "(a)": "I dislike rash drivers. ⇔ I dislike rash driving.",
+        "(b)": "We liked the acting in that movie. ⇔ We liked the actors in that movie.",
+        "(c)": "Trick-or-treating makes them anxious. ⇔ Trick-or-treaters make them anxious.",
+        "(d)": "Overconsuming creates problems for the environment. ⇔ Overconsumers create problems for the environment.",
+        "(e)": "Have you met any birdwatchers? ⇔ Have you met anyone who does birdwatching?",
+        "(f)": "She is a certified diver. ⇔ She has a certification in diving.",
+        "(g)": "The organization encourages volunteering. ⇔ The organization encourages volunteers.",
+        "(h)": "I like to watch fast runners. ⇔ I like to watch fast running.",
+        "(i)": "The audience enjoyed the singer. ⇔ The audience enjoyed the singing.",
+        "(j)": "The dancing made the show unforgettable. ⇔ The dancers made the show unforgettable.",
+        "(k)": "Do manipulators find it easy to deceive you? ⇔ Does manipulating you come easily?"
+    },
+    "Manipulator/device substitution": {
+        "(a)": "The pilot took off despite the stormy weather. ⇔ The plane took off despite the stormy weather.",
+        "(b)": "The racecar attempted to overtake riskily. ⇔ The driver attempted to overtake riskily.",
+        "(c)": "The boat sailed into the harbor perfectly. ⇔ The captain sailed into the harbor perfectly.",
+        "(d)": "The astronaut successfully landed on the moon. ⇔ The spaceship successfully landed on the moon.",
+        "(e)": "The pilot carried the president to the hospital. ⇔ The helicopter carried the president to the hospital.",
+        "(f)": "The truck transported lots of potatos to a small town. ⇔ The trucker transported lots of potatos to a small town.",
+        "(g)": "The fishing boat came back ashore with an impressive catch. ⇔ The fisherman came back ashore with an impressive catch.",
+        "(h)": "The rowers crossed the finish line first. ⇔ The rowboat crossed the finish line first.",
+        "(i)": "The rocket successfully reached orbit. ⇔ The astronauts successfully reached orbit.",
+        "(j)": "The paramedics arrived just in time. ⇔ The ambulance arrived just in time.",
+        "(k)": "The officer was patrolling in the city center. ⇔ The police car was patrolling in the city center."
+    },
+    "Verb/Adjective conversion": {
+        "(a)": "Pat loves Chris. ⇔ Chris is lovable to Pat.",
+        "(b)": "It was not intentional to hurt the president. ⇔ I did not intend to hurt the president.",
+        "(c)": "They hope the cure arrives in time. ⇔ They are hopeful that the cure arrives in time.",
+        "(d)": "You must strengthen yourselves. ⇔ You must make yourselves strong.",
+        "(e)": "The results do not really differ. ⇔ The results are not really different.",
+        "(f)": "The referee was indecisive. ⇔ The referee could not decide.",
+        "(g)": "Mary's work on the discovery was impressive. ⇔ Mary impressed with her work on the discovery.",
+        "(h)": "The football player was subjected to insultive slurs. ⇔ The football player was insulted with slurs.",
+        "(i)": "You must not rely on others too much. ⇔ You must not be too reliant on others.",
+        "(j)": "Tim had to clear his calendar of meetings. ⇔ Tim had to make his calendar clear of meetings.",
+        "(k)": "Joan could benefit from helping others. ⇔ Helping others could be beneficial to Joan."
+    }
+}
